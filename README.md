@@ -2,7 +2,7 @@
 
 Learn how to create awesome SOAP and RESTful web services with Spring and Spring Boot.
 
-[![Image](https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://www.udemy.com/course/spring-web-services-tutorial/)
+[!(https://www.springboottutorial.com/images/Course-Master-Java-Web-Services-and-REST-API-with-Spring-Boot.png "Master Java Web Services and REST API with Spring Boot")](https://www.udemy.com/course/spring-web-services-tutorial/)
 
 ## Launch MySQL as Docker Container
 
